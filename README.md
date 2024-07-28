@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Sandeep Shome</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-shome&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-shome" /> </p>
 
