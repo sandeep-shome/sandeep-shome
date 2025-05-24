@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on Web development<br>🌱 I’m currently learning Next.js & Microservices<br>💬 Ask me about Fullstack development<br>⚡ Fun fact I forgot to eat whie coding
+🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on Web development<br>🌱 I’m currently learning Next.js & Microservices<br>💬 Ask me about Fullstack development<br>⚡ Fun fact I forgot to eat while coding
 
 
 ## 🌐 Socials:
